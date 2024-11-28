@@ -1,6 +1,6 @@
 ## Hi!
 
-|  | Quotes that made me laugh or ponder or cry |
+|  | Quotes that I liked|
 |-----:|---------------|
 |     1|               |
 |     2|               |
