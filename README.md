@@ -16,7 +16,8 @@ When I'm not writing flowery intros I spend my time with music, games, books, an
 | Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Just so clear and simple. More technical expositions can be found elsewhere. Understanding can be found here.|
 |The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| nice reference|
 |Statistical Rethinking | McElreath | Practiced Stan with this. Refer to it every now and then. Helped me better understand deviance and entropy (among other things). The example about accuracy (vs joint prob) and weatherman predictions has stuck with me.|
-|Generalized Additive Models: An Introduction with R| Wood | Rigor, yes sir, three bags full. My gam reference|
+|Generalized Additive Models: An Introduction with R| Wood | Rigor, yes sir, three bags full. Gam reference|
+|Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | A primer. For getting a high-level overview before diving into the weeds.|
 
 Fun Quotes
 ---
