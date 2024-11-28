@@ -1,6 +1,7 @@
 ## Hello, I'm Arnaud :wave:
-
 I like understanding and making things, and having a swell grand ol' time along the way.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
 Appreciate the solid dependability of Statistics™️. 
 Drawn to the arcane power promised by the DL/AI automatons. 
