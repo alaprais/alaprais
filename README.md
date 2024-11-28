@@ -1,10 +1,10 @@
 ## Hi!
 
-|  | Quotes that I liked|
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+| Collection of Quotes|
+|---------------|
+|"Gauss-Markov is a swindle" - Peter Westfall on stack exchange|
+|               |
+|               |
 
 <!--
 **alaprais/alaprais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
