@@ -1,9 +1,9 @@
 ## Hello, I'm Arnaud :wave:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
 I like understanding and making things
 
-![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
+
 
 Appreciate the solid dependability of Statistics™️. 
 Drawn to the arcane promises of DL/AI automatons. 
@@ -27,6 +27,9 @@ Fun Quotes
 >"Gauss-Markov is a swindle"
 
 \- Peter Westfall on stack exchange
+
+![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
+
 <!--
 **alaprais/alaprais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
