@@ -27,6 +27,10 @@ Fun Quotes
 
 \- Peter Westfall on stack exchange
 
+>"In theory, there is no difference between theory and practice. But in
+practice, there is."
+\— Benjamin Brewster
+
 ![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
 
 <!--
