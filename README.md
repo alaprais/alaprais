@@ -1,4 +1,7 @@
-## Hi!
+## Welcome! 
+I like understanding and making things. Appreciate the solid dependability of Statistics™️. Drawn to the arcane power promised by the DL/AI automatons. Curious about the sooth-sayers of causality. And fascinated by how to make it all happen. There is so much to know, and limited time to do it - best get started!
+
+When I'm not writing catchy -cliche- intros I spend my time with music, games, books, and a suite of miscellaneous revolving hobbies.
 
 |   Quotes I liked  | Source|
 |---------------:|----------|
