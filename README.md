@@ -1,10 +1,12 @@
 ## Hello, I'm Arnaud :wave:
-I like understanding and making things, and having a swell grand ol' time along the way.
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
+I like understanding and making things, and having a swell grand ol' time along the way.
+
+![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
+
 Appreciate the solid dependability of Statistics™️. 
-Drawn to the arcane power promised by the DL/AI automatons. 
+Drawn to the arcane promises of DL/AI automatons. 
 Curious about the sooth-sayers of causality. 
 And fascinated by how to make it all happen.
 
