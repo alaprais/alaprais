@@ -1,6 +1,6 @@
 ## Hi!
 
-|     | Deep Cuts|
+|   Quotes I liked  | Source|
 |---------------:|----------|
 |"Gauss-Markov is a swindle"| Peter Westfall on stack exchange|
 |               |            |
