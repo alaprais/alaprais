@@ -1,7 +1,7 @@
 ## Hi!
 
-| Deep Cuts|
-|---------------:|:----------|
+|     | Deep Cuts|
+|---------------:|----------|
 |"Gauss-Markov is a swindle"| Peter Westfall on stack exchange|
 |               |            |
 |               |            |
