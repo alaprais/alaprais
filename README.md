@@ -17,7 +17,7 @@ When I'm not writing flowery intros I spend my time with music, games, books, an
 |The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| nice reference|
 |Statistical Rethinking | McElreath | Practiced Stan with this. Refer to it every now and then. Helped me better understand deviance and entropy (among other things). The example about accuracy (vs joint prob) and weatherman predictions has stuck with me.|
 |Generalized Additive Models: An Introduction with R| Wood | Rigor, yes sir, three bags full. Gam reference|
-|Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | A primer. For getting a high-level overview before diving into the weeds.|
+|Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | A primer. A fast, light read. For getting a high-level overview before diving into the weeds.|
 
 Fun Quotes
 ---
