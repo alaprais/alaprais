@@ -1,4 +1,5 @@
 ## Hello, I'm Arnaud :wave:
+![Untitled design(2)](https://github.com/user-attachments/assets/7b46db88-bfca-4dd6-b42b-d47b7a0dc6f1)
 
 I like understanding and making things
 
@@ -9,8 +10,6 @@ Appreciate the solid dependability of Statistics™️.
 Drawn to the arcane promises of DL/AI automatons. 
 Curious about the sooth-sayers of causality. 
 And fascinated by how to make it all happen.
-
-When I'm not writing intros I spend my time with music, games, books, and a suite of miscellaneous revolving hobbies.
 
 🥇 Top fan of 📚 libgen 📚
 
