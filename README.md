@@ -7,7 +7,7 @@ Drawn to the arcane power promised by the DL/AI automatons.
 Curious about the sooth-sayers of causality. 
 And fascinated by how to make it all happen.
 
-When I'm not writing flowery intros I spend my time with music, games, books, and a suite of miscellaneous revolving hobbies.
+When I'm not writing intros I spend my time with music, games, books, and a suite of miscellaneous revolving hobbies.
 
 🥇 Top fan of 📚 libgen 📚
 
