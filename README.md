@@ -7,7 +7,7 @@ I like understanding and making things
 
 
 Appreciate the solid dependability of Statistics™️. <br>
-Drawn to the arcane promises of DL/AI automatons. <br>
+Drawn to the arcane power of DL/AI automatons. <br>
 Curious about the sooth-sayers of causality. <br>
 And fascinated by how to make it all happen. 
 
@@ -15,9 +15,9 @@ And fascinated by how to make it all happen.
 
 | Book shelf | Authors | Comments   |
 |---------:|-----| --------|
-| Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Just so clear and simple. More technical expositions can be found elsewhere. Understanding can be found here.|
+| Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Just so clear and simple. |
 |The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| nice reference|
-|Statistical Rethinking | McElreath | Practiced Stan with this. Refer to it every now and then. Helped me better understand deviance and entropy (among other things). The example about accuracy (vs joint prob) and weatherman predictions has stuck with me.|
+|Statistical Rethinking | McElreath | Practiced Stan with this. Refer to it every now and then. Helped me better understand deviance and entropy (among other things). Several examples have stuck with me.|
 |Generalized Additive Models: An Introduction with R| Wood | Rigor, yes sir, three bags full. Gam reference|
 |Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | Light survey of ideas used to establish causality|
 
