@@ -6,8 +6,8 @@ I like understanding and making things
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
 
-Appreciate the solid dependability of Statistics™️. <br>
-Drawn to the arcane power of DL/AI automatons. <br>
+Appreciate the solid dependability of Statistics. <br>
+Drawn to the arcane power of DL/AI. <br>
 Curious about the sooth-sayers of causality. <br>
 And fascinated by how to make it all happen. 
 
