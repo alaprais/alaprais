@@ -13,24 +13,29 @@ And fascinated by how to make it all happen.
 
 🥇 Top fan of 📚 libgen 📚
 
+These are some textbooks that I've liked. For learning new topics and self-studying I find that a slightly informal tone with a bit of rambling works best for me. On the other hand, references here will usually be bricks.
 | Book shelf | Authors | Comments   |
 |---------:|-----| --------|
 | Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Just so clear and simple. |
-|The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| nice reference|
+|The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| nice reference (although I prefer ISLR when first learning an idea)|
 |Statistical Rethinking | McElreath | Practiced Stan with this. Refer to it every now and then. Helped me better understand deviance and entropy (among other things). Several examples have stuck with me.|
-|Generalized Additive Models: An Introduction with R| Wood | Rigor, yes sir, three bags full. Gam reference|
+|Generalized Additive Models: An Introduction with R| Wood | Gam reference. Rigorous|
 |Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | Light survey of ideas used to establish causality|
 
-Fun Quotes
+Fun (and Serious) Quotes
 ---
->"Gauss-Markov is a swindle"
+>"Gauss-Markov is a swindle".
 
 \- Peter Westfall (stackexchange)
 
 >"In theory, there is no difference between theory and practice. But in
->practice, there is."
+>practice, there is".
 
 \- Benjamin Brewster
+
+> "Ask the experienced rather than the learned"
+
+\- Arab proverb
 
 ![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
 
