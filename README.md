@@ -33,11 +33,11 @@ Fun (and Serious) Quotes
 
 \- Benjamin Brewster
 
-> "Ask the experienced rather than the learned"
+> "Ask the experienced rather than the learned".
 
 \- Arab proverb
 
-> "Make things as simple as possible, but not simpler"
+> "Make things as simple as possible, but not simpler".
 
 \- Einstein (paraphrased/apocryphal)
 
