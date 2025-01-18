@@ -13,7 +13,7 @@ And fascinated by how to make it all happen.
 
 🥇 Top fan of 📚 libgen 📚
 
-These are some textbooks that I've liked. For learning new topics and self-studying I find that a slightly informal tone with a bit of rambling works best for me. On the other hand, references here will usually be bricks.
+These are some textbooks that I've liked. For learning new topics and self-studying I find that a slightly informal tone with a bit of rambling and several exercises works best for me. On the other hand, references here will usually be bricks.
 | Book shelf | Authors | Comments   |
 |---------:|-----| --------|
 | Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Just so clear and simple. |
@@ -24,22 +24,18 @@ These are some textbooks that I've liked. For learning new topics and self-study
 
 Fun (and Serious) Quotes
 ---
->"Gauss-Markov is a swindle".
-
-\- Peter Westfall (stackexchange)
+>"Gauss-Markov is a swindle".  
+> _-Peter Westfall (stackexchange)_
 
 >"In theory, there is no difference between theory and practice. But in
->practice, there is".
+>practice, there is".  
+> _-Benjamin Brewster_
 
-\- Benjamin Brewster
+> "Ask the experienced rather than the learned".  
+>  _-Arab proverb_
 
-> "Ask the experienced rather than the learned".
-
-\- Arab proverb
-
-> "Make things as simple as possible, but not simpler".
-
-\- Einstein (paraphrased/apocryphal)
+> "Make things as simple as possible, but not simpler".  
+>  _-Einstein (apocryphal?)_
 
 ![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
 
