@@ -37,6 +37,10 @@ Fun (and Serious) Quotes
 
 \- Arab proverb
 
+> "Make things as simple as possible, but not simpler"
+
+\- Einstein (paraphrased/apocryphal)
+
 ![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
 
 <!--
