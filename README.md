@@ -8,8 +8,7 @@ I like understanding and making things
 
 Appreciate the solid dependability of Statistics. <br>
 Drawn to the arcane power of DL/AI. <br>
-Curious about the sooth-sayers of causality. <br>
-And fascinated by how to make it all happen. 
+Curious about causality. <br>
 
 🥇 Top fan of 📚 libgen 📚
 
