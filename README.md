@@ -21,7 +21,7 @@ These are some textbooks that I've liked. For learning new topics and self-study
 |Generalized Additive Models: An Introduction with R| Wood | Gam reference. Rigorous|
 |Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | Light survey of ideas used to establish causality|
 
-Fun (and Serious) Quotes
+Fun Quotes
 ---
 >"Gauss-Markov is a swindle".  
 > _-Peter Westfall (stackexchange)_
