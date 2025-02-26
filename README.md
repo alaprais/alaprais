@@ -1,7 +1,7 @@
 ![Untitled design(2)](https://github.com/user-attachments/assets/7b46db88-bfca-4dd6-b42b-d47b7a0dc6f1)
 
 ## Hello, I'm Arnaud :wave:
-I like understanding and making things
+I like understanding things
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
