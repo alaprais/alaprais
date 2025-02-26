@@ -29,9 +29,6 @@ Fun Quotes
 >practice, there is".  
 > _-Benjamin Brewster_
 
-> "Ask the experienced rather than the learned".  
->  _-Arab proverb_
-
 > "Make things as simple as possible, but not simpler".  
 >  _-Einstein (apocryphal?)_
 
