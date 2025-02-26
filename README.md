@@ -7,8 +7,7 @@ I like understanding and making things
 
 
 Appreciate the solid dependability of Statistics. <br>
-Drawn to the arcane power of DL/AI. <br>
-Curious about causality. <br>
+Drawn to the arcane art of DL/AI. <br>
 
 🥇 Top fan of 📚 libgen 📚
 
