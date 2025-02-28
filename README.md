@@ -25,13 +25,6 @@ Fun Quotes
 >"Gauss-Markov is a swindle".  
 > _-Peter Westfall (stackexchange)_
 
->"In theory, there is no difference between theory and practice. But in
->practice, there is".  
-> _-Benjamin Brewster_
-
-> "Make things as simple as possible, but not simpler".  
->  _-Einstein (apocryphal?)_
-
 ![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
 
 <!--
