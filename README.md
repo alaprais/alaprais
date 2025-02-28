@@ -5,10 +5,6 @@ I like understanding things
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
-
-Appreciate the solid dependability of Statistics. <br>
-Drawn to the arcane art of DL/AI. <br>
-
 🥇 Top fan of 📚 libgen 📚
 
 These are some textbooks that I've liked. For learning new topics and self-studying I find that a slightly informal tone with a bit of rambling and several exercises works best for me. On the other hand, references here will usually be bricks.
