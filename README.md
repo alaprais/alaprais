@@ -20,7 +20,7 @@ Fun Quotes
 >"Gauss-Markov is a swindle."  
 > _-Peter Westfall (stackexchange)_
 >
->"Good artists borrow, great artists steal."
+>"Good artists borrow, great artists steal."   
 > _-Pablo Picasso_
 
 ![Untitled design(1)](https://github.com/user-attachments/assets/f558ea4f-4218-4a25-a900-8714a605f8a3)
