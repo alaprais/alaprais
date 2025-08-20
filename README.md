@@ -10,7 +10,7 @@ These are some textbooks that I've liked.
 | Book shelf | Authors | Comments   |
 |---------:|-----| --------|
 | Advanced Data Analysis From an Elementary Point of View | Cosma Rohilla Shalizi |  Fanboying this one pretty hard atm. A bunch of useful practical ideas here for **modern** analysis. |
-| Computer Systems: A Programmers Perspective     |  Bryant, O'Hallaron   | Only worked through a couple chapters. Great material but I kept thinking _why am I doing this to myself_. C is pretty cool though.  |
+| Computer Systems: A Programmers Perspective     |  Bryant and O'Hallaron   | Only worked through a couple chapters. Great material but I kept thinking _why am I doing this to myself_. C is pretty cool though.  |
 | Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Clear and simple and not _overly_ old-school|
 |The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| reference |
 |Statistical Rethinking | McElreath | Pretty interesting. Haven't really found a need to integrate it into my workflow though. Maybe someday.|
