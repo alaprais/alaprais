@@ -6,7 +6,7 @@
 
 🥇 Top fan of 📚 libgen 📚
 
-These are some textbooks that I've liked. For learning new topics and self-studying I find that a slightly informal tone with a bit of rambling and several exercises works best for me. On the other hand, references here will usually be bricks.
+These are some textbooks that I've liked. 
 | Book shelf | Authors | Comments   |
 |---------:|-----| --------|
 | Advanced Data Analysis From an Elementary Point of View | Cosma Rohilla Shalizi |  Fanboying this one pretty hard atm. A bunch of useful practical ideas here for **modern** analysis. |
