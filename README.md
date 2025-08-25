@@ -4,9 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
-🥇 Top fan of 📚 libgen 📚
-
-These are some textbooks that I've liked. 
+These are books that I've liked. 
 | Book shelf | Authors | Comments   |
 |---------:|-----| --------|
 | Advanced Data Analysis From an Elementary Point of View | Cosma Rohilla Shalizi |  Fanboying this one pretty hard atm. A bunch of useful practical ideas here for **modern** analysis. |
