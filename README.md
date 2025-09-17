@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
 >"Gauss-Markov is a swindle."  
-> _-Peter Westfall (stackexchange)_
+> _- Dr Peter Westfall (stackexchange)_
 >
 >"Good artists borrow, great artists steal."   
 > _-Pablo Picasso_
