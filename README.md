@@ -4,19 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-laprais-175993223/)
 
-These are books that I've liked. 
-| Book shelf | Authors | Comments   |
-|---------:|-----| --------|
-| Advanced Data Analysis From an Elementary Point of View | Cosma Rohilla Shalizi |  Some useful ideas in here for more modern analysis. |
-| Computer Systems: A Programmers Perspective     |  Bryant and O'Hallaron   | Only worked through a couple chapters. Great material but I kept thinking _why am I grinding on this_. C is pretty cool though, and it helped give me the confidence to start doing some interop with Python and R for things that couldnt easily be "numpy-d".  |
-| Understanding Regression Analysis: A Conditional Distribution Approach| Arias and Westfall| Clear and simple and not _overly_ old-school|
-|The Elements of Statistical Learning |Friedman, Tibshirani, and Hastie| reference |
-|Statistical Rethinking | McElreath | Pretty interesting. Haven't really found a need to integrate it into my workflow though. Maybe someday.|
-|Generalized Additive Models: An Introduction with R| Wood | Gam reference|
-|Observation and Experiment: An Introduction to Causal Inference| Rosenbaum | Light survey of causal ideas|
-
-Fun Quotes
----
 >"Gauss-Markov is a swindle."  
 > _-Peter Westfall (stackexchange)_
 >
